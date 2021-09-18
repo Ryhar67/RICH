@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>Miroslav</td>
-        <td>Douda</td>
+        <td>Doudaj</td>
         <td>None</td>
     </tr>
     <tr>
